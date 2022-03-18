@@ -4,4 +4,4 @@ my devops learning session
 
 
 
-i love devops
+i love devops   and cloud
